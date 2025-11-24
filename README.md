@@ -10,7 +10,7 @@ My name is Adam Olah. I'm a young developer in the process of learning programin
 
 Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
-Automatic File handler | If you gave it a file or a folder then it will sort and create a *.zip* file that can be saved as a backup | *Under planning* | ~~none~~
+Automatic File handler | If you gave it a file or a folder then it will sort and create a *.zip* file that can be saved as a backup | *Under planning* | [File handler](https://github.com/LemonShark20706/Automatic-File-handler)
 Automatic Archive creator | Saves any given *.zip* file to google drive | *Under planning* | ~~none~~
 Calendar | You can set up tasks and if it's done than it can help you submit the given task | *Under planning* | ~~none~~
 
