@@ -11,7 +11,7 @@ My name is Adam Olah. I'm a young developer in the process of learning programin
 
 Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
-~~none~~ | ~~none~~ | ~~none~~
+Weather-Crossing-script | A weather API integration script for python. | Under work | [Weather-Crossing-script](https://github.com/LemonShark20706/Weather-Crossing-script)
 
 ## 🌱 I’m currently learning.:
 The languages that I started to learn.:
