@@ -13,6 +13,7 @@ Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
 Weather-Crossing-script | A weather API integration script for python. | Under work | [Weather-Crossing-script](https://github.com/LemonShark20706/Weather-Crossing-script)
 SentinelHub-script | A script that helps get TIFF picture from coordinates. | Under work | [SentinelHub-script](https://github.com/LemonShark20706/SentinelHub-script)
+Full-Stack-server-process | A python, docker project with all options of processing data. | Under planning | Not yet created
 
 ## 🌱 I’m currently learning.:
 The languages that I started to learn.:
