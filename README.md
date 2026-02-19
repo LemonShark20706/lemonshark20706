@@ -19,11 +19,8 @@ Full-Stack-server-process | A python, docker project with all options of process
 The languages that I started to learn.:
 Language | Status
 :-------- | :--------:
-Composer | *under learning*
-Docker | *under learning*
 Power Shell | *under learning*
 Rubi | *under learning*
-MYSQL | *under learning*
 
 ## 🌳 I've already learned.:
 - HTMl
@@ -33,6 +30,11 @@ MYSQL | *under learning*
 - S.A.S.S. (Syntactically Awesome Style Sheets)
 - Tailwind
 - Vue.js
+- C#
+- MYSQL
+- Python
+- Docker
+- Docker Composer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1d%C3%A1m-ol%C3%A1h-60849b35b/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/lemonshark_0007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@adamolah2327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adam.olah06@gmail.com) 
