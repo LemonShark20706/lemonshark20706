@@ -13,7 +13,7 @@ Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
 Weather-Crossing-script | A weather API integration script for python. | Under work | [Weather-Crossing-script](https://github.com/LemonShark20706/Weather-Crossing-script)
 SentinelHub-script | A script that helps get TIFF picture from coordinates. | Under work | [SentinelHub-script](https://github.com/LemonShark20706/SentinelHub-script)
-QR_code_generator | A script that can convert a link to a QR code | Under work | [QR_code_generator](https://github.com/LemonShark20706/QR_code_generator)
+QR_code_generator | A script that can convert a link to a QR code | Under work | [QR_code_generator](https://github.com/LemonShark20706/QR-code-generator)
 Full-Stack-server-process | A python, docker project with all options from my github to process data. | Under planning | Not yet created
 
 ## 🌱 I’m currently learning.:
