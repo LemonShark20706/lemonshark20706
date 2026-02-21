@@ -11,10 +11,11 @@ My name is Adam Olah. I'm a young developer in the process of learning programin
 
 Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
-Weather-Crossing-script | A weather API integration script for python. | Under work | [Weather-Crossing-script](https://github.com/LemonShark20706/Weather-Crossing-script)
-SentinelHub-script | A script that helps get TIFF picture from coordinates. | Under work | [SentinelHub-script](https://github.com/LemonShark20706/SentinelHub-script)
-QR_code_generator | A script that can convert a link to a QR code | Under work | [QR-code-generator](https://github.com/LemonShark20706/QR-code-generator)
-Full-Stack-server-process | A python, docker project with all options from my github to process data. | Under planning | Not yet created
+Weather-Crossing-script | A weather API integration script for python. | *Under work* | [Weather-Crossing-script](https://github.com/LemonShark20706/Weather-Crossing-script)
+SentinelHub-script | A script that helps get TIFF picture from coordinates. | *Under work* | [SentinelHub-script](https://github.com/LemonShark20706/SentinelHub-script)
+QR-code-generator | A script that can convert a link to a QR code | *Under work* | [QR-code-generator](https://github.com/LemonShark20706/QR-code-generator)
+Project-Dashboard | A way to see a better GUI then the consol | *Under work* | [Project-Dashboard](https://github.com/LemonShark20706/Full-Project-Dashboard-GUI)
+Full-Stack-server-process | A python, docker project with all options from my github to process data. | *Under planning* | Not yet created
 
 ## 🌱 I’m currently learning.:
 The languages that I started to learn.:
