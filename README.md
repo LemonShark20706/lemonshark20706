@@ -19,7 +19,7 @@ Most of my projects include both a GUI and a console version to support differen
 
 I design my projects to work with a utils folder, allowing users to extend my base work and create their own custom processes if needed.
 
-## 🔭 I’m currently working on a few projects.:
+## 🔭 My projects and there status.:
 
 ### ⌨ Manual Only Scripts (M.O.S.)
 Name | Small summary | state | Project
