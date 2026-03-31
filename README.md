@@ -24,12 +24,13 @@ I design my projects to work with a utils folder, allowing users to extend my ba
 ### ⌨ Manual Only Scripts (M.O.S.)
 Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
-Weather-Crossing-script | A weather API integration script for python. | *Under work* | [Weather-Crossing-script](https://github.com/LemonShark20706/Weather-Crossing-script)
+Weather-Crossing-script | A weather API integration script for python. | *Under work* | [Manual Weather-Crossing-script](https://github.com/Manual-only-Scripts/Weather-Crossing-script)
 SentinelHub-script | A script that helps get TIFF picture from coordinates. | *Under work* | [SentinelHub-script](https://github.com/LemonShark20706/SentinelHub-script)
 
 ### ⚙ Automata Only Scripts (A.O.S.)
 Name | Small summary | state | Project
 :-------- | :--------: | :--------: | :--------:
+Weather-Crossing-script | A weather API integration script for python. | *Under work* | [Automati Weather-Crossing-script](https://github.com/Automata-Only-Scripts/Weather-Crossing-script)
 Full-Stack-server-process | A python, docker project with all options from my github to process data. | *Under planning* | Not yet created
 
 ### 🧩Extention Scripts (E.S.)
